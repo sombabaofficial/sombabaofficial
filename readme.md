@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=38&duration=500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀create+code+concur🚀;%20;👨‍💻+Hey!+I'm+Somesh+Raj+👨‍💻;%20;%20🎓+NIT+Agartala+CSE'27+🎓+;%20;%20💻+Full+Stack+Developer+💻;%20;%20Love+Coding+&+Building+Cool+Stuff!;"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=38&duration=500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀create+code+concur🚀;%20;👨‍💻+Hey!+I'm+Somesh+Raj+👨‍💻;%20;%20🎓+NIT+Agartala+CSE'27+🎓+;%20;%20💻+Full+Stack+Developer+💻;%20;%20Love+Coding+and+Building+Projects!;"/>
       </a>
     </td>
     <td>
