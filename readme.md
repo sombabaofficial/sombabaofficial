@@ -22,7 +22,6 @@
 - 🧠 Focused on **Data Structures, Algorithms, and Backend Systems**  
 - 🏆 Member of **DCC Core Team** and **E-Cell Core Team**  
 - 🎥 **YouTuber** — [Sombabaofficial](https://www.youtube.com/@Sombabaofficial) (1.1K+ Subscribers)  
-- 💬 Love sharing coding knowledge & learning every day!
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -121,6 +120,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
 
