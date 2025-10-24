@@ -6,11 +6,11 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=38&duration=500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀create+code+and+concur🚀;%20;👨‍💻+Hey!+I'm+Somesh+Raj+👨‍💻;%20;%20CSE'27+@NIT+A;%20;%20Full+Stack+Developer;%20;%20Love+Coding+and+Building+Cool+Stuff!;"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=38&duration=500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀create+code+and+concur🚀;%20;👨‍💻+Hey!+I'm+Somesh+Raj+👨‍💻;%20;%20NIT+Agartala+CSE'27+;%20;%20Full+Stack+Developer;%20;%20Love+Coding+and+Building+Cool+Stuff!;"/>
       </a>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
     </td>
   </tr>
 </table>
@@ -122,6 +122,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
