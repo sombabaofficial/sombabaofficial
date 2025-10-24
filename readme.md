@@ -1,6 +1,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RTR I'm Somesh Raj (SomBaBaOfficial) </h1>
+<h1>Hi! My name is RTR I'm Somesh Raj (SomBaBaOfficial) </h1>
 <!-- Typing + GIF in one row -->
 <table>
   <tr>
