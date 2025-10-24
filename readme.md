@@ -10,7 +10,7 @@
       </a>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350px " />
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="350px " />
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td>
-       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
     </td>
   </tr>
 </table>
@@ -152,6 +152,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
