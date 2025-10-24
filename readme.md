@@ -27,20 +27,18 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏅 Achievements
-- 🧮 Scored **100/100 in CBSE Class 10 Mathematics** — [View Certificate](https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk)  
 - 🎯 **CodeStudio:** Specialist (max: 1743)  
 - ⭐ **CodeChef:** 3 Star (max: 1602) with 1250+ problems  
 - 💚 **Codeforces:** Pupil (max: 1245) with 500+ problems  
 - 🧩 **LeetCode:** (max: 1539) with 200+ problems  
 - 🔥 Solved **2100+ coding problems** across all platforms  
 - 💎 Achieved **Diamond badge** for 100 days coding streak on CodeChef  
-- 🧠 Ranked among **Top 2.5% in JEE Main 2023** (1.2M+ students)  
 - 🥇 Contest Highlights:
   - Rank **24** in *Weekly Contest 184* – CodeStudio  
   - Rank **481** in *Starters 193* – CodeChef  
   - Rank **540** in *Starters 160* – CodeChef  
   - Rank **585** in *AtCoder Beginner Contest 412*
-
+- 🧮 Scored **100/100 in CBSE Class 10 Mathematics** — [View Certificate](https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk)  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🛠️ Languages & Tools
@@ -123,6 +121,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
