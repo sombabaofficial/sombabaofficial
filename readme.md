@@ -82,7 +82,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)
 [![CodeStudio](https://img.shields.io/badge/CodeStudio-FFA500?logo=codestudio&logoColor=white)](https://www.codingninjas.com/studio)
-
+[![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/sombaba)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sombabaofficial?theme=unicorn&font=baloo&ext=heatmap" height="200px"/>
 </p>
@@ -120,3 +120,4 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
