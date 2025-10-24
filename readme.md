@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=700&lines=Hey!+I'm+Somesh+Raj+👨‍💻;CSE'+27+@NIT+A;Full+Stack+Developer+and+DSA+Enthusiast;Love+Coding+and+Building+Cool+Stuff!;Always+Learning+New+Things+🚀;Code. + Create. + Conquer.🚀"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&width=700&lines=Hey!+I'm+Somesh+Raj+👨‍💻;CSE'+27+@NIT+A;Full+Stack+Developer+and+DSA+Enthusiast;Love+Coding+and+Building+Cool+Stuff!;Always+Learning+New+Things+🚀;Code+Create+Conquer🚀;"/>
       </a>
     </td>
     <td>
@@ -119,6 +119,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ⭐️ *“Do not interrupt the code while it’s running as even patience has its output.” — Somesh Raj* 🚀
+
 
 
 
