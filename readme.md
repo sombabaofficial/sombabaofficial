@@ -17,12 +17,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🚀 About Me
-- 🎓 **CSE Student @ NIT A (Batch 2027)**  
-- 💻 Exploring **Full Stack Web Development (MERN)**  
-- 🧠 Focused on **Data Structures, Algorithms, and Backend Systems**  
-- 🏆 Member of **DCC Core Team** and **E-Cell Core Team**  
-- 🎥 **YouTuber** — [Sombabaofficial](https://www.youtube.com/@Sombabaofficial) (1.1K+ Subscribers)  
+<table>
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🎓 <strong>CSE Student @ NIT A (Batch 2027)</strong></li>
+        <li>💻 Exploring <strong>Full Stack Web Development (MERN)</strong></li>
+        <li>🧠 Focused on <strong>Data Structures, Algorithms, and Backend Systems</strong></li>
+        <li>🏆 Member of <strong>DCC Core Team</strong> and <strong>E-Cell Core Team</strong></li>
+        <li>🎥 <strong>YouTuber</strong> — <a href="https://www.youtube.com/@Sombabaofficial" target="_blank">Sombabaofficial</a> (1.1K+ Subscribers)</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
+           alt="About Me GIF" 
+           style="max-width: 200px; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -140,6 +154,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
