@@ -1,3 +1,4 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # Hi there 👋 I'm Somesh Raj (Sombabaofficial)
 <!-- Typing + GIF in one row -->
 <table>
@@ -120,6 +121,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
 
