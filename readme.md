@@ -31,7 +31,7 @@
 - 🎥 **YouTuber** — [Sombabaofficial](https://www.youtube.com/@Sombabaofficial) (1.1K+ Subscribers)  
 - 💬 Love sharing coding knowledge & learning every day!
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏅 Achievements
 - 🧮 Scored **100/100 in CBSE Class 10 Mathematics** — [View Certificate](https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk)  
@@ -125,6 +125,7 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
 
