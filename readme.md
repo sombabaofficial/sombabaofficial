@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
+## 🐍 Contribution Snake  
+![GitHub Snake Light](https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/snake-dark.svg#gh-dark-mode-only)
 
 ## 🚀 About Me
 - 🎓 **CSE Student @ NIT A (Batch 2027)**  
@@ -117,3 +120,4 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
