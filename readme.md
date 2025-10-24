@@ -77,11 +77,12 @@
 
 ## 🎯 Competitive Programming  
 
+[![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/sombaba)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/sombaba)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/sombaba/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sombabaofficial)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/sombaba)
 [![CodeStudio](https://img.shields.io/badge/CodeStudio-FFA500?logo=codestudio&logoColor=white)](https://www.naukri.com/code360/profile/sombaba)
-[![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/sombaba)
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sombabaofficial?theme=unicorn&font=baloo&ext=heatmap" height="200px"/>
 </p>
@@ -119,5 +120,6 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
