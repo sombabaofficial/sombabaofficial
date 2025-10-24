@@ -27,23 +27,34 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150" style="float:right; margin-left: 20px;">
-  
-  ## 🏅 Achievements
-  - 🎯 **CodeStudio:** Specialist (max: 1743)  
-  - ⭐ **CodeChef:** 3 Star (max: 1602) with 1250+ problems  
-  - 💚 **Codeforces:** Pupil (max: 1245) with 500+ problems  
-  - 🧩 **LeetCode:** (max: 1539) with 200+ problems  
-  - 🔥 Solved **2100+ coding problems** across all platforms  
-  - 💎 Achieved **Diamond badge** for 100 days coding streak on CodeChef  
-  - 🥇 Contest Highlights:
-    - Rank **24** in *Weekly Contest 184* – CodeStudio  
-    - Rank **481** in *Starters 193* – CodeChef  
-    - Rank **540** in *Starters 160* – CodeChef  
-    - Rank **585** in *AtCoder Beginner Contest 412*  
-  - 🧮 Scored **100/100 in CBSE Class 10 Mathematics** — [View Certificate](https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk)
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>🏅 Achievements</h2>
+      <ul>
+        <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743)</li>
+        <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems</li>
+        <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1539) with 200+ problems</li>
+        <li>🔥 Solved <b>2100+ coding problems</b> across all platforms</li>
+        <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef</li>
+        <li>🥇 Contest Highlights:
+          <ul>
+            <li>Rank <b>24</b> in <i>Weekly Contest 184</i> – CodeStudio</li>
+            <li>Rank <b>481</b> in <i>Starters 193</i> – CodeChef</li>
+            <li>Rank <b>540</b> in <i>Starters 160</i> – CodeChef</li>
+            <li>Rank <b>585</b> in <i>AtCoder Beginner Contest 412</i></li>
+          </ul>
+        </li>
+        <li>🧮 Scored <b>100/100 in CBSE Class 10 Mathematics</b> — <a href="https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk">View Certificate</a></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+    </td>
+  </tr>
+</table>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -129,6 +140,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
