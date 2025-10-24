@@ -88,13 +88,6 @@
 
 [![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sombabaofficial&theme=react-dark&area=true&hide_border=true)](https://github.com/sombabaofficial)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-    <h2>🏎 Contributions ⚽ </h2>
-    <img alt="contributions eating snake" src="https://raw.githubusercontent.com/sosuke23/sosuke23/output/github-contribution-grid-snake.svg" />
-    <br/>
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -129,6 +122,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
