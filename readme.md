@@ -23,7 +23,7 @@
 <!--Contributions-->
 <div align="center">
     <h2>🏎 Contributions ⚽ </h2>
-    <img alt="contributions eating snake" src="https://raw.githubusercontent.com/sosuke23/sosuke23/output/github-contribution-grid-snake.svg" />
+    <img alt="contributions eating snake" src="https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/github-contribution-grid-snake.svg" />
     <br/>
 </div>
 
@@ -131,6 +131,7 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
 
