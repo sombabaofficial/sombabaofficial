@@ -17,9 +17,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-## 🐍 Contribution Snake  
-![GitHub Snake Light](https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/snake-dark.svg#gh-dark-mode-only)
 
 ## 🚀 About Me
 - 🎓 **CSE Student @ NIT A (Batch 2027)**  
@@ -90,7 +87,10 @@
   <img src="https://leetcard.jacoblin.cool/sombabaofficial?theme=unicorn&font=baloo&ext=heatmap" height="200px"/>
 </p>
 
----
+## 📊 Contribution Graph  
+
+[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sombabaofficial&theme=react-dark&area=true&hide_border=true)](https://github.com/sombabaofficial)
+
 
 ## 🏆 GitHub Trophies  
 
@@ -120,4 +120,3 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
-
