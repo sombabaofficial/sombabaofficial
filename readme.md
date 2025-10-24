@@ -1,5 +1,6 @@
 
-# Hi there 👋 I'm Somesh Raj (Sombabaofficial)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2># Hi there 👋 I'm Somesh Raj (Sombabaofficial) </h2>
 <!-- Typing + GIF in one row -->
 <table>
   <tr>
@@ -118,7 +119,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-⭐️ *“Do not interrupt the code while it’s running as even patience has its output.” — Somesh Raj* 🚀
+
+<h3>⭐️ Do not interrupt the code while it’s running as even patience has its output.  — Somesh Raj 🚀</h3>
+
 
 
 
