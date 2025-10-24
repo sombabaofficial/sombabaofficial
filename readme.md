@@ -18,12 +18,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<div align="center">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=007cf0&center=false&vCenter=false&lines=Sōsuke;Rameez;Lazy+Programmer" />
-</div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Contributions-->
 <div align="center">
@@ -136,6 +131,7 @@
 
 ---
 ⭐️ *“Code. Create. Conquer.” — Somesh Raj (Sombabaofficial)* 🚀
+
 
 
 
