@@ -31,10 +31,10 @@
 ## 🏅 Achievements
 - 🧮 Scored **100/100 in CBSE Class 10 Mathematics** — [View Certificate](https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk)  
 - 🎯 **CodeStudio:** Specialist (max: 1743)  
-- ⭐ **CodeChef:** 3 Star (max: 1600) with 1250+ problems  
+- ⭐ **CodeChef:** 3 Star (max: 1602) with 1250+ problems  
 - 💚 **Codeforces:** Pupil (max: 1245) with 500+ problems  
-- 🧩 **LeetCode:** (max: 1539) with 150+ problems  
-- 🔥 Solved **1900+ coding problems** across all platforms  
+- 🧩 **LeetCode:** (max: 1539) with 200+ problems  
+- 🔥 Solved **2100+ coding problems** across all platforms  
 - 💎 Achieved **Diamond badge** for 100 days coding streak on CodeChef  
 - 🧠 Ranked among **Top 2.5% in JEE Main 2023** (1.2M+ students)  
 - 🥇 Contest Highlights:
@@ -100,9 +100,9 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sombabaofficial/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/som_baba_official/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sombabaofficial)
 &nbsp;
