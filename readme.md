@@ -58,7 +58,7 @@
             <li>Rank <b>585</b> in <i>AtCoder Beginner Contest 412</i></li>
           </ul>
         </li>
-        <li>🧮 Scored <b>100/100 in CBSE Class 10 Mathematics</b> — <a href="https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk">View Certificate</a></li>
+        <li>🧮 Scored <b>100/100 in CBSE Class 10 Mathematics</b>  — <a href="https://drive.google.com/file/d/1gyKTN6nvLJvpSs9_hcHTkj2LibktRQsR/view?usp=drivesdk">View Certificate</a></li>
       </ul>
     </td>
     <td valign="top">
@@ -152,6 +152,7 @@
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
