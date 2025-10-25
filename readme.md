@@ -91,7 +91,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 ## 📈 GitHub Stats
 
@@ -127,7 +127,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sombabaofficial&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 ## 🌐 Connect with Me
 <div align="center">
@@ -142,16 +142,17 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 ## 👀 Profile Visitors  
 ![Profile views](https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
