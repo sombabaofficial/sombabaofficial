@@ -122,13 +122,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sombabaofficial&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-----
 
 
 ## 🌐 Connect with Me
@@ -153,7 +146,8 @@
 
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 
 
