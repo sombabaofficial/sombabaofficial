@@ -51,7 +51,7 @@
         <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743)</li>
         <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems</li>
         <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems</li>
-        <li>🧩 <b>LeetCode:</b> (max: 1539) with 200+ problems</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1611) with 200+ problems</li>
         <li>🔥 Solved <b>2100+ coding problems</b> across all platforms</li>
         <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef</li>
         <li>🥇 Contest Highlights:
@@ -155,6 +155,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
