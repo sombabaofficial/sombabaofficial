@@ -29,7 +29,7 @@
         <li>🎓 <strong>CSE Student @ NIT-A (Batch 2027)</strong></li>
         <li>🧠 Focused on <strong>Data Structures and Algorithms</strong></li>
         <li>💻 Exploring <strong>Full Stack Web Development (MERN)</strong></li>
-        <li>🏆 Member of <strong>DCC Core Team</strong> and <strong>E-Cell Core Team</strong></li>
+        <li>🏆 <strong>E-Cell Core Team Member</strong>
         <li>🎥 <strong>YouTuber</strong> — <a href="https://www.youtube.com/@Sombabaofficial" target="_blank">Sombabaofficial</a> (1.1K+ Subscribers)</li>
       </ul>
     </td>
@@ -155,6 +155,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
