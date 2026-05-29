@@ -17,6 +17,13 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/github-snake-dark.svg"
+       alt="Snake animation"
+       width="1000" />
+</p>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
