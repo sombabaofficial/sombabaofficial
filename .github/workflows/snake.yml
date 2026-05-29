@@ -18,7 +18,7 @@ on:
 
 
 
-  # Trigger the workflow on pushes to the main branch
+  # Trigger the workflow on pushes to main branch
 
   push:
 
