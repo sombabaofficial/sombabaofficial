@@ -65,12 +65,12 @@
     <td valign="top">
       <h2>🏅 Achievements</h2>
       <ul>
-        <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743)</li>
-        <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems</li>
-        <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems</li>
-        <li>🧩 <b>LeetCode:</b> (max: 1761) with 700+ problems</li>
-        <li>🔥 Solved <b>2600+ coding problems</b> across all platforms</li>
-        <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef</li>
+        <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743).</li>
+        <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems.</li>
+        <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems.</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1761) with 700+ problems.</li>
+        <li>🔥 Solved <b>2600+ coding problems</b> across all platforms.</li>
+        <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef.</li>
         <li>🥇 Contest Highlights:
           <ul>
             <li>Rank <b>24</b> in <i>Weekly Contest 184</i> – CodeStudio</li>
