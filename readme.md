@@ -1,6 +1,9 @@
 
 
-<h1># Hi there👋 I'm Somesh Raj (SomBaBaOfficial) </h1>
+<h1>
+  👋 Hi there, I'm Somesh Raj
+  (<a href="https://www.youtube.com/@SomBabaOfficial">SomBaBaOfficial</a>)
+</h1>
 
 
 <!-- Typing + GIF in one row -->
@@ -9,6 +12,9 @@
 <table>
   <tr>
     <td align="center">
+    <img src="https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20Views&color=0e75b6&style=flat"
+     alt="Profile views"
+     height="50" />
       <h1>🚀 Create Code Conquer 🚀</h1>
       <h3>💻 Full Stack Developer 💻</h3>
       <h3>&lt;/&gt; Competitive Programmer &lt;/&gt;</h3>
@@ -29,10 +35,10 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<table>
+
+<!-- <table>
   <tr>
     <td>
       <h2>🚀 About Me</h2>
@@ -48,7 +54,7 @@
        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -62,8 +68,8 @@
         <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743)</li>
         <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems</li>
         <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems</li>
-        <li>🧩 <b>LeetCode:</b> (max: 1611) with 200+ problems</li>
-        <li>🔥 Solved <b>2100+ coding problems</b> across all platforms</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1761) with 700+ problems</li>
+        <li>🔥 Solved <b>2600+ coding problems</b> across all platforms</li>
         <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef</li>
         <li>🥇 Contest Highlights:
           <ul>
@@ -148,13 +154,9 @@
 
 ---
 
-## 👀 Profile Visitors  
-![Profile views](https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 <h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Somesh Raj 🚀</h3>
-
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
