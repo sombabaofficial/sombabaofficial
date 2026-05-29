@@ -96,13 +96,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-| GitHub Stats | Repo Languages | Commit Languages |
-|--------------|----------------|------------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=sombabaofficial&show_icons=true&theme=tokyonight) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sombabaofficial&theme=tokyonight) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sombabaofficial&theme=tokyonight) |
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🎯 Competitive Programming  
 
