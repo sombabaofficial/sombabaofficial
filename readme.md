@@ -4,25 +4,30 @@
 
 
 <!-- Typing + GIF in one row -->
+<div align="center">
+
 <table>
   <tr>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@800&size=40&duration=800&pause=200&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀+Create+Code+Conquer+🚀;%20;👨‍💻+Hey!+I'm+Somesh+Raj+👨‍💻;%20;💻+Full+Stack+Developer+💻;%20;</>+Competitive+Programmer+</>;%20;"/> 
-      </a>
+    <td align="center">
+      <h1>🚀 Create Code Conquer 🚀</h1>
+      <h3>💻 Full Stack Developer 💻</h3>
+      <h3>&lt;/&gt; Competitive Programmer &lt;/&gt;</h3>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350px " />
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350px" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/github-snake-dark.svg"
-       alt="Snake animation"
-       width="1000" />
-</p>
+<br>
 
+<h3>🐍 Every green square tells a story 🐍</h3>
+
+<img src="https://raw.githubusercontent.com/sombabaofficial/sombabaofficial/output/github-snake-dark.svg"
+     alt="Snake animation"
+     width="1000" />
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
