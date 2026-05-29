@@ -1,10 +1,8 @@
 
-
-<h1>
+<h1 align="center">
   👋 Hi there, I'm Somesh Raj
   (<a href="https://www.youtube.com/@SomBabaOfficial">SomBaBaOfficial</a>)
 </h1>
-
 
 <!-- Typing + GIF in one row -->
 <div align="center">
