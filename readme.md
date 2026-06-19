@@ -10,9 +10,9 @@
 <table>
   <tr>
     <td align="center">
-    <img src="https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20Views&color=0e75b6&style=flat"
+    <!-- <img src="https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20Views&color=0e75b6&style=flat"
      alt="Profile views"
-     height="50" />
+     height="50" /> -->
       <h1>Somesh Raj</h1>
       <h3>💻 Full Stack Developer 💻</h3>
       <h3>&lt;/&gt; Competitive Programmer &lt;/&gt;</h3>
