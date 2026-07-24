@@ -1,7 +1,6 @@
-
 <h1 align="center">
   👋 Hi there, I'm Somesh Raj
-  (<a href="https://www.youtube.com/@SomBabaOfficial">SomBaBaOfficial</a>)
+  (<a href="https://www.youtube.com/@SomBaBaOfficial">SomBaBaOfficial</a>)
 </h1>
 
 <!-- Typing + GIF in one row -->
@@ -10,9 +9,9 @@
 <table>
   <tr>
     <td align="center">
-    <!-- <img src="https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20Views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=sombabaofficial&label=Profile%20Views&color=0e75b6&style=flat"
      alt="Profile views"
-     height="50" /> -->
+     height="50" />
       <h1>Somesh Raj</h1>
       <h3>💻 Full Stack Developer 💻</h3>
       <h3>&lt;/&gt; Competitive Programmer &lt;/&gt;</h3>
@@ -24,6 +23,17 @@
 </table>
 
 <br>
+
+<!-- 🔗 Featured Links -->
+<a href="https://sombaba-guidance-platform.vercel.app/">
+  <img src="https://img.shields.io/badge/🎓_SomBaba_Guidance_Platform-Visit_Now-4F46E5?style=for-the-badge&logoColor=white" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://my-portfolio-inky-seven-46.vercel.app/">
+  <img src="https://img.shields.io/badge/💼_My_Portfolio-Explore-0EA5E9?style=for-the-badge&logoColor=white" height="42" />
+</a>
+
+<br><br>
 
 <h3>🐍 Every green square tells a story 🐍</h3>
 
@@ -66,8 +76,8 @@
         <li>🎯 <b>CodeStudio:</b> Specialist (max: 1743).</li>
         <li>⭐ <b>CodeChef:</b> 3 Star (max: 1602) with 1250+ problems.</li>
         <li>💚 <b>Codeforces:</b> Pupil (max: 1245) with 500+ problems.</li>
-        <li>🧩 <b>LeetCode:</b> (max: 1761) with 700+ problems.</li>
-        <li>🔥 Solved <b>2600+ coding problems</b> across all platforms.</li>
+        <li>🧩 <b>LeetCode: Knight</b> (max: 1861) with 700+ problems.</li>
+        <li>🔥 Solved <b>2700+ coding problems</b> across all platforms.</li>
         <li>💎 Achieved <b>Diamond badge</b> for 100 days coding streak on CodeChef.</li>
         <li>🥇 Contest Highlights:
           <ul>
@@ -94,20 +104,31 @@
 
 <p align="center">
   
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20Postgres-025E8C?logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=googlegemini&logoColor=white)
 </p>
 
 ---
@@ -147,6 +168,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sombabaofficial)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Sombabaofficial)
+&nbsp;
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white)](https://www.whatsapp.com/channel/0029VbD5wwYEwEk0l2XJUS3b)
 
 </div>
 
@@ -160,121 +183,3 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
